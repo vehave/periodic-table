@@ -1,4 +1,4 @@
-# Perodic Table
+# Periodic Table
 
 <a href="https://vehave.github.io/chemical-elements/" target="_blank"><img src="PlayNowButton.png" alt="Play now!"></a>
 
