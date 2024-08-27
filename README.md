@@ -21,3 +21,7 @@ You can choose the length of the game and play at your own pace. Periodic Table 
 <img src="Periodic-Table-Game-4.jpg" alt="Game view">
 
 <img src="Periodic-Table-Game-5.jpg" alt="Game view">
+
+## Also available for Android devices
+
+<a href="https://play.google.com/store/apps/details?id=com.jaksollinenquiz.com.unity.template.mobile2D" target="_blank"><img src="PlayStore.jpg" alt="Get it on Google Play"></a>
